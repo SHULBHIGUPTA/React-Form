@@ -1,0 +1,10 @@
+.app-container {
+  display: grid;
+  place-items: center;
+  background-color: burlywood;
+  height:80vh;
+  width:30vw;
+  margin-left:500px;
+  margin-top: 80px;
+}
+
